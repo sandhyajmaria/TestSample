@@ -1,4 +1,6 @@
 This is file - 1
+This is file - 2 - remote
+This is file - 3 - remote
 test text 
 This is file - 2 - local
 This is file - 3 - local
